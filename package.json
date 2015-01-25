@@ -1,0 +1,34 @@
+{
+  "name": "hubot-catgif",
+  "description": "Return a random cat gif (from thecatapi)",
+  "version": "0.1.0",
+  "author": "Cyril F <cyrilf7x@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot-catgif",
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cyrilf/hubot-catgif.git"
+  },
+
+  "homepage": "https://github.com/cyrilf/hubot-catgif",
+
+  "bugs": {
+    "url": "https://github.com/cyrilf/hubot-catgif/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "main": "index.coffee"
+}
