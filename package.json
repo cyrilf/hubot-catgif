@@ -1,14 +1,14 @@
 {
   "name": "hubot-catgif",
   "description": "Return a random cat gif (from thecatapi)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Cyril F <cyrilf7x@gmail.com>",
   "license": "MIT",
 
   "keywords": [
     "hubot",
     "hubot-scripts",
-    "hubot-catgif",
+    "hubot-catgif"
   ],
 
   "repository": {
